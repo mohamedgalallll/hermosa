@@ -1,0 +1,14 @@
+.color-star {
+    color: #ec891d;
+}
+.myFontAwesome {
+    font-family: FontAwesome;
+}
+select.myCustomSelect,
+select.myCustomSelect option {
+    color: yellow !important;
+}
+
+
+
+
